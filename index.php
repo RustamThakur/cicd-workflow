@@ -12,5 +12,6 @@ echo "<h2>This is <i style='color:red'>Index File</i> running via Docker contain
 ?>
 <h2>Chnages for new git commit</h2>
 <h4>Chnages for new git commit</h4>
+<p>adding new text</p>
 </body>
 </html>
