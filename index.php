@@ -9,9 +9,12 @@
 <?php 
 
 echo "<h2>This is <i style='color:red'>Index File</i> running via Docker container</h2>";
+echo "test"
+echo "test2"
 ?>
 <h2>Chnages for new git commit</h2>
 <h4>Chnages for new git commit</h4>
 <p>adding new text</p>
+
 </body>
 </html>
