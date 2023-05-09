@@ -1,0 +1,19 @@
+{
+    "name": "zestgeek36/gitlearn",
+    "description": "CiCd workflow composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zestgeek36\\Gitlearn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rustam",
+            "email": "rustam@zestgeek.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
